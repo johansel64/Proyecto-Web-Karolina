@@ -132,6 +132,7 @@ function carritoHTML(){
     limpiarHTML();
 
     //Recorre el carrito y agrega el html
+    
     articulosCarrito.forEach( producto =>{
         const {imagen, titulo, precio, total, cantidad, id} = producto;
         const row = document.createElement('tr');
@@ -141,8 +142,8 @@ function carritoHTML(){
                 <img src = "${imagen}" width = "100px">
             </td>
             <td>${titulo}</td>
-            <td>${precio}</td>
-            <td>${total}</td>
+            <td>¢ ${precio}</td>
+            <td>¢ ${total}</td>
             <td>
                 <a href = "#" class = "borrar-producto" data-id = "${id}" >✖️</i> </a>
             </td>

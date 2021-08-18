@@ -65,10 +65,10 @@ function mostrarProductos(productos){
             <h4>${nombre}</h4>
             <p>Marca: <strong>${marca}</strong></p>
             <p> <span>Precio: ¢</span> <var>${precio}</var> </p>
-            <a href="#" class="btn btn-primary  col-12 agregar-carrito" data-id="${id}"><i class="fas fa-shopping-cart"></i></a>
+            <a href="#" class="btn color2 col-12 agregar-carrito" data-id="${id}"><i class="fas fa-shopping-cart"></i></a>
         </div>
         
-        <a type="button" href="../productos/vistaProducto.html" class=" btn text-center p-2 infoProducto"> VER</i> </a>
+        <a type="button" href="../productos/vistaProducto.html" class=" btn  infoProducto"> VER</i> </a>
 
 
         `;
