@@ -96,11 +96,20 @@
     color: white;
   }
   .borderProducto{
-    border-width: 5px;
-    border-color:rgb(196, 50, 209);
+    border:#ffacd5 5px solid;
   }
   /* #carrito #lista-carrito th{
     background: linear-gradient(rgba(140, 74, 201, 0.418), rgba(202, 46, 72, 0.205));
 
   } */
+.img-circus{
+  border-radius: 50%;
+}
+
+.centrar{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
 
