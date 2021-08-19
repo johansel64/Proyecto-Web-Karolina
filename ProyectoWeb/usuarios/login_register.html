@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="../css/customLoginRegister.css">
+</head>
+
+<body>
+
+    <main>
+
+        <section class="contenedor">
+            <article class="contener__trasero">
+                <div class="contenedor__trasero-login">
+                    <h3>¿Ya tienes una cuenta?</h3>
+                    <p>Inicia sesión para entrar en la página</p>
+                    <button id="btn__iniciar-sesion">Iniciar Sesión</button>
+                </div>
+                <div class="contenedor__trasero-register">
+                    <h3>¿Aún no tienes una cuenta?</h3>
+                    <p>Regístrate para que puedas iniciar sesión</p>
+                    <button id="btn__registrarse">Regístrarse</button>
+                </div>
+            </article>
+
+            <!--Formulario de Login y registro-->
+            <article class="contenedor__login-register">
+                <!--Login-->
+                <form action="" class="formulario__login" id="form__login">
+                    <article id="grupo__login">
+                        <h2>Iniciar Sesión</h2>
+
+                        <div class="input-box" id="grupo__correo1">
+                            <input type="text" id="correo1" placeholder="Correo electrónico" name="correo1">
+                            <i class="from__validacion-estado fa-solid fas fa-times-circle"></i>
+                            <p class="form__input-error">El correo solo puede contener letras, números, puntos, guiones y guión bajo.</p>
+                        </div>
+
+                        <div class="input-box" id="grupo__contrasena">
+                            <input type="password" id="contrasena" placeholder="Contraseña" name="contrasena">
+                            <i class="from__validacion-estado fa-solid fas fa-times-circle"></i>
+                            <p class="form__input-error">La contraseña tiene que ser de 6 a 20 dígitos.</p>
+                        </div>
+
+
+                        <button>Entrar</button>
+                    </article>
+
+                </form>
+
+                <!--Register-->
+                <form action="" class="formulario__register" id="form__register">
+                    <article id="grupo__registrar">
+                        <h2>Regístrarse</h2>
+
+                        <div class="input-box" id="grupo__nombre">
+                            <input type="text" id="nombre" placeholder="Nombre completo" name="nombre">
+                            <i class="from__validacion-estado fa-solid fas fa-times-circle"></i>
+                            <p class="form__input-error">El nombre solo debe tener letras.</p>
+                        </div>
+
+                        <div class="input-box" id="grupo__correo">
+                            <input type="email" id="correo" placeholder="Correo Electrónico" name="correo">
+                            <i class="from__validacion-estado fa-solid fas fa-times-circle"></i>
+                            <p class="form__input-error">El correo solo puede contener letras, números, puntos, guiones y guión bajo.</p>
+                        </div>
+
+                        <div class="input-box" id="grupo__usuario">
+                            <input type="text" id="usuario" placeholder="Usuario" name="usuario">
+                            <i class="from__validacion-estado fa-solid fas fa-times-circle"></i>
+                            <p class="form__input-error">El usuario tiene que ser de 4 a 16 dígitos y solo puede contener números, letras y guión bajo.</p>
+                        </div>
+
+                        <div class="input-box" id="grupo__contrasena1">
+                            <input type="password" id="contrasena1" placeholder="Contraseña" name="contrasena1">
+                            <i class="from__validacion-estado fa-solid fas fa-times-circle"></i>
+                            <p class="form__input-error">La contraseña tiene que ser de 6 a 20 dígitos.</p>
+                        </div>
+
+                        <div class="input-box" id="grupo__contrasena2">
+                            <input type="password" id="contrasena2" placeholder="Confirme su contraseña" name="contrasena2">
+                            <i class="from__validacion-estado fa-solid fas fa-times-circle"></i>
+                            <p class="form__input-error">Ambas contraseñas deben de ser iguales.</p>
+                        </div>
+
+
+                        <button>Regístrarse</button>
+                    </article>
+
+                </form>
+            </article>
+        </section>
+
+    </main>
+
+    <script src="../js/appLoginRegister.js"></script>
+    <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
