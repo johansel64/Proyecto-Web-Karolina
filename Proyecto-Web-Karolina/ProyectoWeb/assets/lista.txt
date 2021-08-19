@@ -1,0 +1,32 @@
+---------------Uñas-------------------
+uñas1: ESMALTE HYPE #12 Rojo ₡ 4,000.00
+uñas2: ESMALTE HYPE #20 CARIBBEA ₡ 4,000.00
+uñas3: ESMALTE HYPE #01 CLEAR ₡ 4,000.00
+uñas4: KIT ACRILIC GEL COMPLETO - marca->THUYA ₡ 130,000.00
+uñas5: 
+uñas6: POLVO ACRILICO PREMIUM - marca->THUYA ₡ 28,000.00
+uñas7:KIT GEL PAINT MODELO - marca->THUYA ₡ 42,150.00
+uñas8: SPIDER GEL - marca->THUYA ₡ 90,000.00
+uñas9: FINALIZADOR - marca->THUYA ₡ 17,100.00
+
+--------------Cabello------------------
+cabello1:SHAMPOO SUAVIZANTE - marca->RUSK ₡ 13,500.00
+cabello2: ACONDICIONADOR DEEPSHINE - marca->RUSK ₡ 15,000.00 
+cabello3:SHAMPOO REPARADOR - marca->RUSK ₡ 26,250.00
+cabello4: ALISADO BRASILEÑO - marca->GLAUCI ₡ 9,900.00
+cabello5:ALISADO BRASILEÑO - marca->KATIVA ₡ 10,499.96
+cabello6:  PERMANENTE - marca->HIPERTIN ₡ 17,000.00
+cabello7: TIJERAS ORIGINALES - marca->JAGUAR ₡ 223,150.00
+cabello8:  PEINE PARA CORTE- marca->BABYLISS ₡ 2,000.00
+cabello9: PRENSA PICO - marca->BURMAX ₡ 900.00
+
+---------------Maquillaje------------------
+maquillaje1:BASE MAQUILLAJE - marca->PALLADIO ₡ 13,500.00
+maquillaje2:PRIMER - marca->ARDELLBEAUTY ₡ 18,500.00
+maquillaje3: CORRECTOR - marca->ARDELLBEAUTY ₡ 8,950.00
+maquillaje4: RUBOR PRECIOUS - marca->PALLADIO ₡ 9,300.00
+maquillaje5: BRONZER- marca->ARDELLBEAUTY ₡ 9,500.00
+maquillaje6: ILLUMINADOR- marca->PALLADIO ₡ 10,950.00
+maquillaje7: PALETA SOMBRAS- marca->PALLADIO ₡ 15,400.00
+maquillaje8: MASCARA DE PESTAÑAS - marca->ARDELLBEAUTY ₡ 12,900.00
+maquillaje9: LABIAL- marca->ARDELLBEAUTY ₡ 10,250.00

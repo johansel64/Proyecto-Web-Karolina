@@ -1,0 +1,106 @@
+.color1{
+    background:  linear-gradient(rgba(34, 32, 33, 0.753), rgba(212, 3, 100, 0.815));
+  }
+
+  .colorBuscador{
+    background:  linear-gradient(rgb(0, 0, 0), rgb(228, 225, 227));
+  }
+
+  .color2r{
+    background: linear-gradient(rgba(0, 0, 0, 0.8),#f16caf8c);
+  }
+
+  .color3{
+    background: linear-gradient( #f16caf8c, rgba(0, 0, 0, 0.8));
+  }
+  /* f16caf8c */
+
+  .color2{
+    background: #f16caf8c;
+  }
+
+  .colorHeader{
+    background: linear-gradient(rgba(212, 23, 111, 0.788), rgba(13, 13, 14, 0.842));
+  }
+  
+
+  #vaciar-carrito{
+    background: linear-gradient(rgba(231, 12, 49, 0.664), rgba(218, 132, 210, 0.658));
+
+  }
+
+  #pagar-carrito{
+    background: linear-gradient(rgba(49, 183, 216, 0.815), rgba(124, 175, 184, 0.658));
+
+  }
+  
+  
+  .fa-twitter{
+    color: #16899d;
+  }
+  
+  .fa-facebook-f{
+    color: #0d6efd;
+  }
+  
+  .fa-instagram{
+    color: #d63384;
+  }
+  
+  #navbarResponsive ul li a{
+    font-size: 20px;
+    color: #000;
+  }
+  
+  .fa-shopping-cart{
+    background-size: 9px;
+  }
+  
+  .submenu {
+    position: relative;
+  }
+  
+  th{
+    padding: 20px;
+    margin: 20px;
+
+  }
+  
+  .contenedor-carrito{
+    margin: 0;
+  }
+  
+
+  /* Borrar articulo del carrito */
+
+  .fa-times-circle{
+      color: red;
+  }
+
+  #mainNav .container a{
+    color: white;
+  }
+  #mainNav .container a:hover{
+    color: rgb(196, 50, 209);
+  }
+  #mainNav .container button{
+    color: white;
+    border: white 1px solid;
+  }
+
+  #mainNav .container button:hover{
+    color: rgb(7, 7, 7);
+  }
+
+  .row article label{
+    color: white;
+  }
+  .borderProducto{
+    border-width: 5px;
+    border-color:rgb(196, 50, 209);
+  }
+  /* #carrito #lista-carrito th{
+    background: linear-gradient(rgba(140, 74, 201, 0.418), rgba(202, 46, 72, 0.205));
+
+  } */
+
